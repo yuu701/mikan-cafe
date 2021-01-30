@@ -23,8 +23,18 @@ img {
 /* HEADER */
 /* ------------------ */
 .logo {
-  width: 210px;
+  width: 50px;
   margin-top: 14px;
+}
+
+.logo-wrapper {
+  display: flex;
+  font-family: 'philosopher', selif;
+}
+
+.logo-text {
+  margin-left: 10px;
+  margin-top: 10px;
 }
 
 .main-nav {
